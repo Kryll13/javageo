@@ -1,5 +1,9 @@
 package chatgpt;
 
+/**
+ * Commentaire pour Marc
+ */
+
 //Point1D.java (sous-classe)
 public class Point1D extends Point {
 	private double x;
